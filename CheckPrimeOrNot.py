@@ -1,6 +1,5 @@
 
 num = int (input("Enter the Number"))
-
 # To take input from the user
 
 # define a flag variable
