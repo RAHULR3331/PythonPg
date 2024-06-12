@@ -44,7 +44,11 @@ print(x);
 # FOR REPALCE A STRING WORD OR CHARACTER USING THE  REPLACE ()
 print(name.replace('R','A'));
 
-
+# String Concatination 
+str1='good';
+str2='morning';
+str3= str1+" "+str2;
+print(str3);
 
 
 
